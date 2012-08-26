@@ -5,7 +5,7 @@
 		<key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
     <key>CFBundleIconFile</key>           <string>MyAwesomeIcon.icns</string>
     <key>CFBundleName</key>               <string>Sinatra</string>
-    <key>CFBundleExecutable</key>         <string>app.rb</string>
+    <key>CFBundleExecutable</key>         <string>app.sh</string>
     <key>CFBundleIdentifier</key>         <string>sinatra.app</string>
     <key>CFBundleVersion</key>            <string>0.1</string>
     <key>NSHumanReadableCopyright</key>   <string>Shannon Skipper © Copyright 2012</string>
